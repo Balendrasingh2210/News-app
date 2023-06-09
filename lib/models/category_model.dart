@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 class CategoryModel {
   static List<Category> categories = [];
 }
